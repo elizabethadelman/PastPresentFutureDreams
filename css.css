@@ -1,0 +1,20 @@
+P { text-align: center }
+H1 { text-align: center }
+H2 { text-align: center }
+h3 { text-align: center }
+
+
+body {
+    background-color: #a485ff;
+    color: rgb(145, 215, 255);
+  }
+  
+  h1 {
+    background-color: rgb(135, 30, 255);
+    color: rgb(145, 215, 255);
+  }
+  h3 {
+    background-color:rgb(145, 215, 255);
+    color: rgb(135, 30, 255);
+    
+  }
